@@ -1,0 +1,86 @@
+/*header area start*/
+header{
+    background-color: red;
+    overflow: hidden;
+}
+header .logo{
+    width:40%;
+    float: left;
+}
+header .logo img{
+    width: 10%;
+    margin-top:25px;
+}
+header .box1{
+    width: 80%;
+}
+header .box1 ul{
+    list-style-type: none;
+}
+header .box1 ul li{
+    float: left;
+}
+header .box1 ul li a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 25px 15px;
+    font-size: 20px;
+}
+header .box1 ul li a:hover{
+    color: darkgreen;
+    background-color: rgb(33, 194, 194);
+}
+/*header area end*/
+#heroarea .part2{
+    background-image: url(img5.jpg);
+}
+#heroarea .part2 h1{
+    padding: 300px 70px;
+    font-size: 50px;
+    color: red;
+}
+#mainarea div{
+    background-color: red;
+    width:22%;
+    height: 200px;
+    overflow:auto;
+    text-align: center;
+    float: left;
+    padding:50px;
+    margin:50px 20px;
+}
+#mainarea2 div img{
+    float: left;
+    margin: 20px;
+}
+#mainarea2 .part10 img{
+    width: 400px;
+    height: 400px;
+    overflow:auto;
+}
+#mainarea2 .part11 img{
+    width: 400px;
+    height: 400px;
+}
+#mainarea2 .part12 img{
+    width: 400px;
+    height: 400px;
+}
+#mainarea2 .part13 img{
+    width: 400px;
+    height: 400px;
+}
+#mainarea2 .part14 img{
+    width:397px;
+    height:400px;
+}
+#mainarea2 .part15 img{
+    width:400px;
+    height: 400px;
+}
+footer .part16 p{
+    width:100%;
+    height:20px;
+    background-color: rgb(206, 39, 39);
+    text-align: center;
+}
